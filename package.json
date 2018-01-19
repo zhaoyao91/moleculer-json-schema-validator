@@ -1,0 +1,18 @@
+{
+  "name": "moleculer-json-schema-validator",
+  "version": "0.0.1",
+  "description": "validate moleculer params by json schema",
+  "keywords": [
+    "moleculer",
+    "json schema"
+  ],
+  "main": "index.js",
+  "author": "zhaoyao91 <zhaoyao91@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^6.x.x"
+  },
+  "devDependencies": {
+    "moleculer": "^0.11.x"
+  }
+}
