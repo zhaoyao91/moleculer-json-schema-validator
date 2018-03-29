@@ -25,7 +25,7 @@ module.exports = {
 }
 ```
 
-```
+```js
 // service.js
 
 module.exports = {
